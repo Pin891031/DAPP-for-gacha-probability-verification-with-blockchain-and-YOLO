@@ -146,28 +146,3 @@ git clone -b stable https://github.com/flutter/flutter.git
 新增Path```C:\flutter\bin```
 安裝Android Studio
 Android Studio安裝Flutter和dart plugin
-## 資料夾結構
-請將CSRS置於C槽底下
-CSRS
-├── README.md
-├── __pycache__(自動生成的python編譯檔)
-├── web.py(Flask伺服器)
-├── python
-│       ├── __pycache__(自動生成的python編譯檔)
-│       ├── start_all.py(彙整程式)
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       └── constants.py
-├── static
-├── tmp
-├── yoloGPU1
-└── totalcount.txt
-
-## 程式碼展示
-# DApp-for-gacha-probability-verification-with-blockchain-and-YOLO
-# DApp-for-gacha-probability-verification-with-blockchain-and-YOLO
