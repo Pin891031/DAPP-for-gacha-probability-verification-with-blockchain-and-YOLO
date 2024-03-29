@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主頁面</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .full-screen {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			background-image: url({{ url_for('static', filename='images/coworkers-looking-at-mobile-device.jpg') }});
+			background-size: cover;
+			background-position: center;
+			color: #fff;
+			text-align: center;
+			opacity: 0.7;
+        }
+		.full-screen h1{
+			font-size: 4em;
+			font-family: 'Arial', sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 3px;
+			text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+			transition: opacity 1s ease-in-out;
+		}
+		
+        .instructions {
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    
+	<div id="navbar-container"></div>
+	
+	<section class="full-screen">
+        <h1 id ="title" class="title">歡迎!</h1>
+    </section>
+
+    <section>
+        <div class="container">
+			</br>
+			</br>
+			<h3>網站設立目的:</h3>
+			<p>本網站設立的目的是為了解決消費者因樣本數不足而難以證明公佈機率造假的問題,同時也能夠讓遊戲廠商證明其機率是公平且並無造假的成分。</p>
+			<h3>使用說明:</h3>
+			<p><strong>本網站主要由三個部分組成:</strong></p>
+			<ul>
+				<li>機率圖表頁面裡面提供圓餅圖及簡單的機率計算，計算結果僅供參考，如有需求請去洽詢專業的機率與統計工程師。</li>
+				<li>原始圖片頁面裡面提供記錄在系統裡全部的抽卡結果畫面原始圖片，如果想要查看在ipfs上的資料可以點擊圖片複製其cid，或點擊前往網頁使用ipfs公共網觀察看圖片。</li>
+				<li>檔案上傳裡面提供選擇檔案上傳功能，可上傳檔案類型有jpg、jpeg、png及mp4，每次上傳最多500mb，選擇完檔案後可預覽選擇檔案，如一次選擇多筆檔案可按[&gt;]查看下一個檔案的預覽。</li>
+			</ul>
+			</br>
+			</br>
+			</br>
+			</br>
+        </div>
+    </section>
+	<script>
+		fetch('/navbar')
+			.then(response => response.text())
+			.then(data => {
+				document.getElementById('navbar-container').innerHTML = data;
+			})
+			.catch(error => console.error('Error loading navbar:', error));
+		
+		document.addEventListener('DOMContentLoaded', function() {
+            const changingTitle = document.getElementById('title');
+            setTimeout(function() {
+                changingTitle.style.opacity = '0';
+                setTimeout(function() {
+                    changingTitle.textContent = '遊戲抽卡機率驗證網站';
+                    changingTitle.style.opacity = '1';
+                }, 1000);
+            }, 3000);
+        });
+	</script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

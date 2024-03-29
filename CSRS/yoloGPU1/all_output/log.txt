@@ -1,0 +1,800 @@
+times: 1
+影片分離並將影片擷取結果: 0.88 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 16.36 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.38 seconds
+將抽卡結果上傳至區塊鏈: 3.00 seconds
+總花費時間: 21.34 seconds
+times: 2
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 16.26 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 39.01 seconds
+總花費時間: 57.25 seconds
+times: 3
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 16.18 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 40.87 seconds
+總花費時間: 59.05 seconds
+times: 4
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.55 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 53.49 seconds
+總花費時間: 72.10 seconds
+times: 5
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.16 seconds
+將影像辨識結果轉換為文字檔: 0.19 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 29.40 seconds
+總花費時間: 47.63 seconds
+times: 6
+影片分離並將影片擷取結果: 0.99 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.09 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 41.80 seconds
+總花費時間: 59.97 seconds
+times: 7
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.59 seconds
+影像辨識: 16.89 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 40.38 seconds
+總花費時間: 59.21 seconds
+times: 8
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.63 seconds
+影像辨識: 16.33 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 30.20 seconds
+總花費時間: 48.55 seconds
+times: 9
+影片分離並將影片擷取結果: 0.92 seconds
+上傳至IPFS: 0.62 seconds
+影像辨識: 16.67 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.26 seconds
+將抽卡結果上傳至區塊鏈: 53.36 seconds
+總花費時間: 72.01 seconds
+times: 10
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.14 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 53.16 seconds
+總花費時間: 71.36 seconds
+times: 11
+影片分離並將影片擷取結果: 1.00 seconds
+上傳至IPFS: 0.85 seconds
+影像辨識: 16.94 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 79.10 seconds
+總花費時間: 98.30 seconds
+times: 12
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.59 seconds
+影像辨識: 17.41 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 50.33 seconds
+總花費時間: 69.68 seconds
+times: 13
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.70 seconds
+影像辨識: 17.06 seconds
+將影像辨識結果轉換為文字檔: 0.19 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 66.35 seconds
+總花費時間: 85.55 seconds
+times: 14
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.74 seconds
+影像辨識: 16.56 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.36 seconds
+將抽卡結果上傳至區塊鏈: 41.23 seconds
+總花費時間: 59.91 seconds
+times: 15
+影片分離並將影片擷取結果: 0.99 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.55 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 28.38 seconds
+總花費時間: 47.13 seconds
+times: 16
+影片分離並將影片擷取結果: 0.99 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.37 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 30.64 seconds
+總花費時間: 49.20 seconds
+times: 17
+影片分離並將影片擷取結果: 0.98 seconds
+上傳至IPFS: 0.64 seconds
+影像辨識: 16.24 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 27.90 seconds
+總花費時間: 46.20 seconds
+times: 18
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 15.98 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 43.15 seconds
+總花費時間: 61.17 seconds
+times: 19
+影片分離並將影片擷取結果: 1.01 seconds
+上傳至IPFS: 0.69 seconds
+影像辨識: 15.81 seconds
+將影像辨識結果轉換為文字檔: 0.19 seconds
+清理完成檔案並將原始圖片緩存: 0.26 seconds
+將抽卡結果上傳至區塊鏈: 29.78 seconds
+總花費時間: 47.75 seconds
+times: 20
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 15.97 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.32 seconds
+將抽卡結果上傳至區塊鏈: 41.77 seconds
+總花費時間: 59.81 seconds
+times: 21
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.70 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 28.35 seconds
+總花費時間: 47.02 seconds
+times: 22
+影片分離並將影片擷取結果: 0.85 seconds
+上傳至IPFS: 0.79 seconds
+影像辨識: 16.51 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 54.14 seconds
+總花費時間: 72.72 seconds
+times: 23
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.62 seconds
+影像辨識: 17.01 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.34 seconds
+將抽卡結果上傳至區塊鏈: 30.51 seconds
+總花費時間: 49.53 seconds
+times: 24
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.59 seconds
+影像辨識: 17.03 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.35 seconds
+將抽卡結果上傳至區塊鏈: 28.05 seconds
+總花費時間: 47.10 seconds
+times: 25
+影片分離並將影片擷取結果: 1.03 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 15.85 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 41.21 seconds
+總花費時間: 59.10 seconds
+times: 26
+影片分離並將影片擷取結果: 0.92 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.35 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 90.70 seconds
+總花費時間: 109.08 seconds
+times: 27
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.22 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.31 seconds
+將抽卡結果上傳至區塊鏈: 28.23 seconds
+總花費時間: 46.47 seconds
+times: 28
+影片分離並將影片擷取結果: 1.23 seconds
+上傳至IPFS: 0.64 seconds
+影像辨識: 16.06 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.34 seconds
+將抽卡結果上傳至區塊鏈: 42.02 seconds
+總花費時間: 60.42 seconds
+times: 29
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 17.65 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.34 seconds
+將抽卡結果上傳至區塊鏈: 27.95 seconds
+總花費時間: 47.67 seconds
+times: 30
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.64 seconds
+影像辨識: 16.08 seconds
+將影像辨識結果轉換為文字檔: 0.20 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 30.52 seconds
+總花費時間: 48.67 seconds
+times: 31
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.19 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 53.86 seconds
+總花費時間: 72.12 seconds
+times: 32
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.64 seconds
+影像辨識: 16.15 seconds
+將影像辨識結果轉換為文字檔: 0.23 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 41.69 seconds
+總花費時間: 59.96 seconds
+times: 33
+影片分離並將影片擷取結果: 0.98 seconds
+上傳至IPFS: 0.63 seconds
+影像辨識: 16.49 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 30.90 seconds
+總花費時間: 49.46 seconds
+times: 34
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.58 seconds
+影像辨識: 16.43 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.31 seconds
+將抽卡結果上傳至區塊鏈: 27.11 seconds
+總花費時間: 45.47 seconds
+times: 35
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.54 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 42.08 seconds
+總花費時間: 60.70 seconds
+times: 36
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.78 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 101.64 seconds
+總花費時間: 120.43 seconds
+times: 37
+影片分離並將影片擷取結果: 0.85 seconds
+上傳至IPFS: 0.76 seconds
+影像辨識: 17.46 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 28.23 seconds
+總花費時間: 47.74 seconds
+times: 38
+影片分離並將影片擷取結果: 1.03 seconds
+上傳至IPFS: 0.71 seconds
+影像辨識: 17.22 seconds
+將影像辨識結果轉換為文字檔: 0.17 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 40.54 seconds
+總花費時間: 59.96 seconds
+times: 39
+影片分離並將影片擷取結果: 0.77 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 15.50 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 44.22 seconds
+總花費時間: 61.52 seconds
+times: 40
+影片分離並將影片擷取結果: 0.85 seconds
+上傳至IPFS: 0.59 seconds
+影像辨識: 16.75 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 39.60 seconds
+總花費時間: 58.19 seconds
+times: 41
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.60 seconds
+影像辨識: 17.16 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 28.74 seconds
+總花費時間: 47.84 seconds
+times: 42
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.55 seconds
+影像辨識: 16.32 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.26 seconds
+將抽卡結果上傳至區塊鏈: 29.38 seconds
+總花費時間: 47.55 seconds
+times: 43
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.59 seconds
+影像辨識: 16.14 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.26 seconds
+將抽卡結果上傳至區塊鏈: 30.76 seconds
+總花費時間: 48.77 seconds
+times: 44
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.54 seconds
+影像辨識: 16.26 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 29.92 seconds
+總花費時間: 48.06 seconds
+times: 45
+影片分離並將影片擷取結果: 0.91 seconds
+上傳至IPFS: 0.73 seconds
+影像辨識: 16.98 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 28.79 seconds
+總花費時間: 47.84 seconds
+times: 46
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.78 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 29.02 seconds
+總花費時間: 47.92 seconds
+times: 47
+影片分離並將影片擷取結果: 0.92 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 16.85 seconds
+將影像辨識結果轉換為文字檔: 0.21 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 29.92 seconds
+總花費時間: 48.79 seconds
+times: 48
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.60 seconds
+影像辨識: 16.52 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.25 seconds
+將抽卡結果上傳至區塊鏈: 40.96 seconds
+總花費時間: 59.47 seconds
+times: 49
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.62 seconds
+影像辨識: 16.40 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.26 seconds
+將抽卡結果上傳至區塊鏈: 52.88 seconds
+總花費時間: 71.32 seconds
+times: 50
+影片分離並將影片擷取結果: 0.88 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.80 seconds
+將影像辨識結果轉換為文字檔: 0.18 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 32.28 seconds
+總花費時間: 51.10 seconds
+times: 51
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.33 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.25 seconds
+將抽卡結果上傳至區塊鏈: 52.99 seconds
+總花費時間: 71.37 seconds
+times: 52
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.73 seconds
+影像辨識: 16.63 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 27.29 seconds
+總花費時間: 46.06 seconds
+times: 53
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.75 seconds
+影像辨識: 16.81 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 29.46 seconds
+總花費時間: 48.43 seconds
+times: 54
+影片分離並將影片擷取結果: 0.91 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.85 seconds
+將影像辨識結果轉換為文字檔: 0.17 seconds
+清理完成檔案並將原始圖片緩存: 0.35 seconds
+將抽卡結果上傳至區塊鏈: 51.54 seconds
+總花費時間: 70.54 seconds
+times: 55
+影片分離並將影片擷取結果: 1.02 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 17.92 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.31 seconds
+將抽卡結果上傳至區塊鏈: 41.19 seconds
+總花費時間: 61.28 seconds
+times: 56
+影片分離並將影片擷取結果: 1.04 seconds
+上傳至IPFS: 0.69 seconds
+影像辨識: 16.92 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 27.98 seconds
+總花費時間: 47.07 seconds
+times: 57
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.71 seconds
+影像辨識: 17.04 seconds
+將影像辨識結果轉換為文字檔: 0.20 seconds
+清理完成檔案並將原始圖片緩存: 0.32 seconds
+將抽卡結果上傳至區塊鏈: 29.19 seconds
+總花費時間: 48.44 seconds
+times: 58
+影片分離並將影片擷取結果: 0.99 seconds
+上傳至IPFS: 0.81 seconds
+影像辨識: 16.48 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 28.85 seconds
+總花費時間: 47.54 seconds
+times: 59
+影片分離並將影片擷取結果: 0.88 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 17.52 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 29.05 seconds
+總花費時間: 48.65 seconds
+times: 60
+影片分離並將影片擷取結果: 0.88 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.45 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 28.88 seconds
+總花費時間: 47.32 seconds
+times: 61
+影片分離並將影片擷取結果: 1.00 seconds
+上傳至IPFS: 0.54 seconds
+影像辨識: 16.49 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 30.32 seconds
+總花費時間: 48.77 seconds
+times: 62
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.63 seconds
+影像辨識: 16.58 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 28.74 seconds
+總花費時間: 47.33 seconds
+times: 63
+影片分離並將影片擷取結果: 1.05 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.66 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 41.04 seconds
+總花費時間: 59.89 seconds
+times: 64
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.69 seconds
+影像辨識: 17.15 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.31 seconds
+將抽卡結果上傳至區塊鏈: 28.22 seconds
+總花費時間: 47.46 seconds
+times: 65
+影片分離並將影片擷取結果: 0.84 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.38 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 54.68 seconds
+總花費時間: 73.00 seconds
+times: 66
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.52 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 29.23 seconds
+總花費時間: 47.81 seconds
+times: 67
+影片分離並將影片擷取結果: 0.92 seconds
+上傳至IPFS: 0.64 seconds
+影像辨識: 16.82 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 29.50 seconds
+總花費時間: 48.28 seconds
+times: 68
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.76 seconds
+影像辨識: 18.30 seconds
+將影像辨識結果轉換為文字檔: 0.17 seconds
+清理完成檔案並將原始圖片緩存: 0.39 seconds
+將抽卡結果上傳至區塊鏈: 50.44 seconds
+總花費時間: 71.01 seconds
+times: 69
+影片分離並將影片擷取結果: 0.98 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.64 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 102.65 seconds
+總花費時間: 121.43 seconds
+times: 70
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.37 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.29 seconds
+將抽卡結果上傳至區塊鏈: 40.90 seconds
+總花費時間: 59.33 seconds
+times: 71
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.80 seconds
+影像辨識: 16.37 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 42.24 seconds
+總花費時間: 60.76 seconds
+times: 72
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.70 seconds
+影像辨識: 16.16 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 27.93 seconds
+總花費時間: 46.20 seconds
+times: 73
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.63 seconds
+影像辨識: 16.21 seconds
+將影像辨識結果轉換為文字檔: 0.17 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 42.71 seconds
+總花費時間: 60.92 seconds
+times: 74
+影片分離並將影片擷取結果: 0.94 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.08 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 29.75 seconds
+總花費時間: 47.83 seconds
+times: 75
+影片分離並將影片擷取結果: 1.03 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 16.27 seconds
+將影像辨識結果轉換為文字檔: 0.12 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 30.17 seconds
+總花費時間: 48.53 seconds
+times: 76
+影片分離並將影片擷取結果: 0.86 seconds
+上傳至IPFS: 0.75 seconds
+影像辨識: 16.64 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.34 seconds
+將抽卡結果上傳至區塊鏈: 52.41 seconds
+總花費時間: 71.16 seconds
+times: 77
+影片分離並將影片擷取結果: 0.92 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.56 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 54.67 seconds
+總花費時間: 73.30 seconds
+times: 78
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.67 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.34 seconds
+將抽卡結果上傳至區塊鏈: 27.79 seconds
+總花費時間: 46.48 seconds
+times: 79
+影片分離並將影片擷取結果: 0.91 seconds
+上傳至IPFS: 0.70 seconds
+影像辨識: 16.66 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.32 seconds
+將抽卡結果上傳至區塊鏈: 53.37 seconds
+總花費時間: 72.10 seconds
+times: 80
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.77 seconds
+影像辨識: 16.82 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 28.87 seconds
+總花費時間: 47.86 seconds
+times: 81
+影片分離並將影片擷取結果: 0.92 seconds
+上傳至IPFS: 0.79 seconds
+影像辨識: 16.76 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.36 seconds
+將抽卡結果上傳至區塊鏈: 30.75 seconds
+總花費時間: 49.72 seconds
+times: 82
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.60 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 40.49 seconds
+總花費時間: 59.12 seconds
+times: 83
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.89 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.31 seconds
+將抽卡結果上傳至區塊鏈: 65.33 seconds
+總花費時間: 84.33 seconds
+times: 84
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.85 seconds
+將影像辨識結果轉換為文字檔: 0.19 seconds
+清理完成檔案並將原始圖片緩存: 0.32 seconds
+將抽卡結果上傳至區塊鏈: 88.34 seconds
+總花費時間: 107.34 seconds
+times: 85
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.64 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 31.07 seconds
+總花費時間: 49.74 seconds
+times: 86
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.67 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.34 seconds
+將抽卡結果上傳至區塊鏈: 28.39 seconds
+總花費時間: 47.22 seconds
+times: 87
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.37 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 88.71 seconds
+總花費時間: 107.13 seconds
+times: 88
+影片分離並將影片擷取結果: 0.89 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.44 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.28 seconds
+將抽卡結果上傳至區塊鏈: 29.20 seconds
+總花費時間: 47.66 seconds
+times: 89
+影片分離並將影片擷取結果: 0.96 seconds
+上傳至IPFS: 0.65 seconds
+影像辨識: 16.23 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.37 seconds
+將抽卡結果上傳至區塊鏈: 42.86 seconds
+總花費時間: 61.20 seconds
+times: 90
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 17.33 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.32 seconds
+將抽卡結果上傳至區塊鏈: 39.04 seconds
+總花費時間: 58.41 seconds
+times: 91
+影片分離並將影片擷取結果: 0.98 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.93 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 45.59 seconds
+總花費時間: 64.58 seconds
+times: 92
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.37 seconds
+將影像辨識結果轉換為文字檔: 0.11 seconds
+清理完成檔案並將原始圖片緩存: 0.35 seconds
+將抽卡結果上傳至區塊鏈: 49.11 seconds
+總花費時間: 67.59 seconds
+times: 93
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.67 seconds
+影像辨識: 16.80 seconds
+將影像辨識結果轉換為文字檔: 0.15 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 29.06 seconds
+總花費時間: 47.94 seconds
+times: 94
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.84 seconds
+將影像辨識結果轉換為文字檔: 0.21 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 41.62 seconds
+總花費時間: 60.59 seconds
+times: 95
+影片分離並將影片擷取結果: 0.97 seconds
+上傳至IPFS: 0.68 seconds
+影像辨識: 16.63 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.27 seconds
+將抽卡結果上傳至區塊鏈: 29.95 seconds
+總花費時間: 48.66 seconds
+times: 96
+影片分離並將影片擷取結果: 0.93 seconds
+上傳至IPFS: 0.73 seconds
+影像辨識: 16.63 seconds
+將影像辨識結果轉換為文字檔: 0.16 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 63.66 seconds
+總花費時間: 82.44 seconds
+times: 97
+影片分離並將影片擷取結果: 0.98 seconds
+上傳至IPFS: 0.64 seconds
+影像辨識: 16.64 seconds
+將影像辨識結果轉換為文字檔: 0.14 seconds
+清理完成檔案並將原始圖片緩存: 0.36 seconds
+將抽卡結果上傳至區塊鏈: 29.63 seconds
+總花費時間: 48.42 seconds
+times: 98
+影片分離並將影片擷取結果: 0.95 seconds
+上傳至IPFS: 0.72 seconds
+影像辨識: 16.68 seconds
+將影像辨識結果轉換為文字檔: 0.13 seconds
+清理完成檔案並將原始圖片緩存: 0.41 seconds
+將抽卡結果上傳至區塊鏈: 28.67 seconds
+總花費時間: 47.57 seconds
+times: 99
+影片分離並將影片擷取結果: 0.90 seconds
+上傳至IPFS: 0.61 seconds
+影像辨識: 16.73 seconds
+將影像辨識結果轉換為文字檔: 0.19 seconds
+清理完成檔案並將原始圖片緩存: 0.33 seconds
+將抽卡結果上傳至區塊鏈: 41.44 seconds
+總花費時間: 60.21 seconds
+times: 100
+影片分離並將影片擷取結果: 0.98 seconds
+上傳至IPFS: 0.66 seconds
+影像辨識: 16.37 seconds
+將影像辨識結果轉換為文字檔: 0.17 seconds
+清理完成檔案並將原始圖片緩存: 0.30 seconds
+將抽卡結果上傳至區塊鏈: 41.68 seconds
+總花費時間: 60.17 seconds
