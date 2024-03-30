@@ -1,4 +1,3 @@
-[Toc]
 ## 目的
 近年來遊戲產業蓬勃發展，越來越多玩家為了提升遊戲體驗，願意購買遊戲中的付費項目，例如可以獲得強力角色或裝備的轉蛋成果。然而轉蛋作為一種新興的消費方式，法規方面尚未完整規範，導致消費爭議層出不窮。例如消費者轉蛋抽取某角色或某裝備的次數遠高於期望值，遊戲廠商卻經常以抽取轉蛋樣本數不足來搪塞消費者，使消費者無從對證。
 
@@ -8,48 +7,48 @@
 
 下圖1至圖9為DApp前端子系統實機操作畫面:
 
-<div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/B1Awo7VkC.png" alt="偵測系統首頁" style="width: 100%; height: auto; margin-right: 10px;" />
-    <p style="text-align: center;"><strong>圖1 偵測系統首頁</strong></p>
+<div>
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%81%B5%E6%B8%AC%E7%B3%BB%E7%B5%B1%E9%A6%96%E9%A0%81.png" height="auto" width="45%" margin-right="10px" />
+    <p><strong>圖1 偵測系統首頁</strong></p>
+</div>
+
+<div>
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%81%B5%E6%B8%AC%E7%B3%BB%E7%B5%B1%E9%A6%96%E9%A0%81.png" height="auto" width="45%" margin-left="10px" />
+    <p><strong>圖2 統計結果首頁</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/B1Awo7VkC.png" alt="統計結果首頁" style="width: 100%; height: auto; margin-left: 10px;" />
-    <p style="text-align: center;"><strong>圖2 統計結果首頁</strong></p>
-</div>
-
-<div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/Sy_uOVNJR.png" alt="原始圖片頁面" style="width: 100%; height: auto; margin-right: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%8E%9F%E5%A7%8B%E5%9C%96%E7%89%87%E9%A0%81%E9%9D%A2.png" alt="原始圖片頁面" style="width: 100%; height: auto; margin-right: 10px;" />
     <p style="text-align: center;"><strong>圖3 原始圖片頁面</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/Byjdd4NyC.png" alt="原始圖片大圖" style="width: 100%; height: auto; margin-left: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%8E%9F%E5%A7%8B%E5%9C%96%E7%89%87%E5%A4%A7%E5%9C%96.png" alt="原始圖片大圖" style="width: 100%; height: auto; margin-left: 10px;" />
     <p style="text-align: center;"><strong>圖4 原始圖片大圖</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/HJdiON4JR.png" alt="懸浮視窗1" style="width: 100%; height: auto; margin-right: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E6%87%B8%E6%B5%AE%E8%A6%96%E7%AA%971.png" alt="懸浮視窗1" style="width: 100%; height: auto; margin-right: 10px;" />
     <p style="text-align: center;"><strong>圖5 懸浮視窗1</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/r1oouVEyR.png" alt="懸浮視窗2" style="width: 100%; height: auto; margin-left: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E6%87%B8%E6%B5%AE%E8%A6%96%E7%AA%972.png" alt="懸浮視窗2" style="width: 100%; height: auto; margin-left: 10px;" />
     <p style="text-align: center;"><strong>圖6 原懸浮視窗2</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/Sk5nd4N10.png" alt="圓餅圖" style="width: 100%; height: auto; margin-right: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%9C%93%E9%A4%85%E5%9C%96.png" alt="圓餅圖" style="width: 100%; height: auto; margin-right: 10px;" />
     <p style="text-align: center;"><strong>圖7 圓餅圖</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/r1t6OV4JR.png" alt="期望值" style="width: 100%; height: auto; margin-left: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E6%9C%9F%E6%9C%9B%E5%80%BC.png" alt="期望值" style="width: 100%; height: auto; margin-left: 10px;" />
     <p style="text-align: center;"><strong>圖8 期望值</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
-  <img src="https://hackmd.io/_uploads/rJMAuEVkC.png" alt="上傳頁面" style="width: 100%; height: auto; margin-left: 10px;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E4%B8%8A%E5%82%B3%E9%A0%81%E9%9D%A2.png" alt="上傳頁面" style="width: 100%; height: auto; margin-left: 10px;" />
     <p style="text-align: center;"><strong>圖9 上傳頁面</strong></p>
 </div>
 
@@ -57,7 +56,7 @@
 
 本專案設計的系統包含一個前端子系統及三個後端子系統，希望透過蒐集眾多玩家上傳的轉蛋結果，擴大樣本數以驗證遊戲中獎池實際機率是否符合公告機率。圖 10 為本系統架構圖。
 <div style="display: inline-block; width: 100%;">
-  <img src="https://hackmd.io/_uploads/r1B8i7EkR.png" alt="國科會架構圖" style="width: 100%; height: auto;" />
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%9C%8B%E7%A7%91%E6%9C%83%E6%9E%B6%E6%A7%8B%E5%9C%96.png" alt="國科會架構圖" style="width: 100%; height: auto;" />
     <p style="text-align: center;"><strong>圖10 國科會架構圖</strong></p>
 </div>
 
@@ -146,28 +145,3 @@ git clone -b stable https://github.com/flutter/flutter.git
 新增Path```C:\flutter\bin```
 安裝Android Studio
 Android Studio安裝Flutter和dart plugin
-## 資料夾結構
-請將CSRS置於C槽底下
-CSRS
-├── README.md
-├── __pycache__(自動生成的python編譯檔)
-├── web.py(Flask伺服器)
-├── python
-│       ├── __pycache__(自動生成的python編譯檔)
-│       ├── start_all.py(彙整程式)
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       ├── 
-│       └── constants.py
-├── static
-├── tmp
-├── yoloGPU1
-└── totalcount.txt
-
-## 程式碼展示
-# DApp-for-gacha-probability-verification-with-blockchain-and-YOLO
-# DApp-for-gacha-probability-verification-with-blockchain-and-YOLO
