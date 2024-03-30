@@ -7,14 +7,14 @@
 
 下圖1至圖9為DApp前端子系統實機操作畫面:
 
-<div style="display: inline-block; width: 45%;">
-  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%81%B5%E6%B8%AC%E7%B3%BB%E7%B5%B1%E9%A6%96%E9%A0%81.png" alt="偵測系統首頁" style="width: 100%; height: auto; margin-right: 10px;" />
-    <p style="text-align: center;"><strong>圖1 偵測系統首頁</strong></p>
+<div>
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%81%B5%E6%B8%AC%E7%B3%BB%E7%B5%B1%E9%A6%96%E9%A0%81.png" height="auto" width="45%" margin-right="10px" />
+    <p><strong>圖1 偵測系統首頁</strong></p>
 </div>
 
-<div style="display: inline-block; width: 45%;">
-  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E7%B5%B1%E8%A8%88%E7%B5%90%E6%9E%9C%E9%A6%96%E9%A0%81.png" alt="統計結果首頁" style="width: 100%; height: auto; margin-left: 10px;" />
-    <p style="text-align: center;"><strong>圖2 統計結果首頁</strong></p>
+<div>
+  <img src="https://github.com/Pin891031/DApp-for-gacha-probability-verification-with-blockchain-and-YOLO/blob/main/img/%E5%81%B5%E6%B8%AC%E7%B3%BB%E7%B5%B1%E9%A6%96%E9%A0%81.png" height="auto" width="45%" margin-left="10px" />
+    <p><strong>圖2 統計結果首頁</strong></p>
 </div>
 
 <div style="display: inline-block; width: 45%;">
